@@ -1,6 +1,7 @@
 # TimelapseFromGoogleStreetView
-Generate Time Lapse Movies from Google Street View
+## Generate Time Lapse Movies from Google Street View
 
+__Watch out because you may be breaking Google's Terms of Service by using this. This is only intended to explore how it is possible to do it. Also, watch out for the usage limits of Google's APIs: by using this, you are making LOTS of calls to them, and you may easily use up your free limits.__
 
 1. load the script and its subdirectories onto a web server
 2. check the source code of app.js: the code contains the configurations in the variable definitions at the top of the file
